@@ -1,5 +1,5 @@
 easyocr==1.6.2
-opencv==4.6.0
+opencv
 opencv-python==4.7.0.72
 opencv-python-headless==4.5.4.60
 pandas==1.4.3
