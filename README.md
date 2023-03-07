@@ -9,7 +9,7 @@ Enjoy the app and HAPPY CODING😉
 
 ### My streamlit app link
 >[My app link](https://thiruvenkatam007-business-card-data-extraction-app-sjr4wh.streamlit.app/)
-
+### You can find the data i used in the creative modern business card folder
 Lets see the codes step by step 
 
 ### To extract datas from image i used EASYOCR in this project.To use easyocr you need to install pytorch also.(please see the requirements.txt file)
